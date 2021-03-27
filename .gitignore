@@ -8,7 +8,11 @@
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
-/build
+/build/grnerated
+/build/intermediates
+/build/output/logs
+/build/sceneform_sdk
+/build/tmp
 /captures
 .externalNativeBuild
 .cxx
