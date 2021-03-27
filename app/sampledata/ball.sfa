@@ -63,7 +63,7 @@
     file: 'sampledata/ball.obj',
     name: 'ball',
     recenter: 'root',
-    scale: 0.68237899999999996,
+    scale: 0.05537899999999996,
   },
   samplers: [
     {

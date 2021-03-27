@@ -1,1 +1,5 @@
-/build
+/build/grnerated
+/build/intermediates
+/build/output/logs
+/build/sceneform_sdk
+/build/tmp

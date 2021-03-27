@@ -33,7 +33,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void setUpModel() {
         ModelRenderable.builder()
-                .setSource(this, R.raw.ball)
+                //.setSource(this, R.raw.ball)
+                .setSource(this, R.raw.wolves)//TODO change the model here
                 .build()
                 .thenAccept(renderable -> modelRenderable = renderable)
                 .exceptionally(throwable -> {
